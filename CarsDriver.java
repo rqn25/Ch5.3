@@ -15,7 +15,7 @@ public class CarsDriver {
 
 		herCar.setColor("Blue"); herCar.setHorsePower(650); herCar.setEngineSize(6.5); herCar.setMake("Ferrari");
 			
-		System.out.println("\ncarObjects: Color = " + myCar.getColor() + ", Horse power = " + myCar.getHorsePower() + ", Engine size = " + myCar.getEngineSize() + ", Make = " + myCar.getMake());
+		System.out.println("\nferrariCar: Color = " + myCar.getColor() + ", Horse power = " + myCar.getHorsePower() + ", Engine size = " + myCar.getEngineSize() + ", Make = " + myCar.getMake());
 		
 	}
 
