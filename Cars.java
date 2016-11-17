@@ -1,5 +1,5 @@
 
-public class Cars {
+public class Carsx {
 	private String color;
 	private int horsePower;
 	private double engineSize;
