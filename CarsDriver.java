@@ -1,5 +1,5 @@
 
-public class CarsDriverx {
+public class CarsDriver {
 	public static void main(String [] args) {
 		Cars myCar = new Cars();
 		Cars hisCar = new Cars("Black", 400, 3.5, "Honda");
